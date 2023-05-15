@@ -1,3 +1,3 @@
 # PHP Practice
 
-Working through the Beginner PHP and MySQL Tutorial (https://www.udemy.com/course/php-mysql-tutorial/).
+Working through the PHP for Beginners tutorial ([https://www.udemy.com/course/php-mysql-tutorial/](https://www.udemy.com/course/applied-php-for-beginners)).
