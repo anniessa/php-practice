@@ -8,6 +8,8 @@
 =====================================
 */
 
+
+
 echo "This is the first index page";
 echo "<br />";
 echo "<br />";
@@ -31,5 +33,12 @@ echo "<table>";
 		echo "<td>55414</td>";
 	echo "</tr>";
 echo "</table>";
+
+echo '<ul>';
+echo '<li> Joe </li>';
+
+
+
+
 
 ?>
